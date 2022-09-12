@@ -1,0 +1,18 @@
+## What it does
+Framework to create decentralised social media account on web2 plateform, through DAOs on near.
+
+## How we built it
+With near
+
+## Challenges we ran into
+Decentralisation of the api calls, while keeping it under control.
+
+## Accomplishments that we're proud of
+Creation of the tools, explanation of the needs and ideas
+
+## What we learned
+The challenge to decentralise the use of web2 social media
+
+## What's next for DAO4SocialAccount
+usage of oracle to handle the publications
+
