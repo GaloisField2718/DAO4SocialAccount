@@ -93,3 +93,8 @@ Another step is to find organisations willing to try our solution and give us fe
 
 If we can even give them some near for their DAO creation, that would be huge. Once they're onboarded onto our decentralized social media product, they would be just one small step to fully transfert into a DAO format for all their other needs.
 
+## LINKS
+**Youtube** : https://www.youtube.com/watch?v=bjp4fmTr-k8
+**Slides** : https://docs.google.com/presentation/d/1W53uEVnVQTWjG7pexAofirLmDdcpLB_d4pzt98f_3NU/edit?usp=sharing
+
+
